@@ -1,0 +1,21 @@
+.sign{
+    margin-top: 80px
+}
+.sign .guest{
+    float: right;
+}
+.sign .guest{
+    width: 250px;
+}
+.pgdoc{
+    margin-top: 20px !important;
+    margin: 20px;
+    font-size: 18px;
+}
+.pgdoc .agrlist{
+    font-size: 15px;
+    line-height: 30px;
+}
+.headDate{
+    float: right;
+}
